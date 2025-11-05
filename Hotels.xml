@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+	xmlns="https://dareyno4.github.io/hotelSchema/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+	https://dareyno4.github.io/hotelSchema/
+	https://dareyno4.github.io/hotelSchema/Hotels.xsd"
+>
+	<Hotel Rating="3.8">
+		<Name>Scottsdale Parkview Resort</Name>
+		<Phone>(480) 941-1202</Phone>
+		<Address>
+			<Number>7707</Number>
+			<Street>E McDowell Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85257</Zip>
+			<NearestAirport>Phoenix Sky Harbor Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.9">
+		<Name>Park Central Hotel New York</Name>
+		<Phone>(212) 247-8000</Phone>
+		<Address>
+			<Number>870</Number>
+			<Street> 7th Ave</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10019</Zip>
+			<NearestAirport>New York La Guardia</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Freehand Los Angeles</Name>
+		<Phone>(213) 612-0021</Phone>
+		<Phone>(213) 646-0011</Phone>
+		<Address>
+			<Number>416</Number>
+			<Street>W 8th St</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90014</Zip>
+			<NearestAirport>Los Angeles International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>Flamingo Las Vegas</Name>
+		<Phone>(702) 733-3111</Phone>
+		<Address>
+			<Number>3555</Number>
+			<Street>Las Vegas Blvd S</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+			<NearestAirport>McCarran International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Rio Hotel and Casino</Name>
+		<Phone>(702) 777-7777</Phone>
+		<Address>
+			<Number>3700</Number>
+			<Street>W Flamingo Rd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89103</Zip>
+			<NearestAirport>McCarran International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton Garden Inn Chicago</Name>
+		<Phone>(312) 753-5100</Phone>
+		<Phone>(312) 764-5870</Phone>
+		<Address>
+			<Number>55</Number>
+			<Street>E 11th St</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60605</Zip>
+			<NearestAirport>Chicago Midway Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating ="4.4">
+		<Name>Ocean Casino Resort</Name>
+		<Phone>(609) 783-8000</Phone>
+		<Address>
+			<Number>500</Number>
+			<Street>Boardwalk</Street>
+			<City>Atlantic City</City>
+			<State>NJ</State>
+			<Zip>08401</Zip>
+			<NearestAirport>Atlantic City International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>The Sanctuary at Kiawah Island Golf Resort</Name>
+		<Phone>(888) 601-4904</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Sanctuary Beach Dr</Street>
+			<City>Kiawah Island</City>
+			<State>SC</State>
+			<Zip>29455</Zip>
+			<NearestAirport>Charleston International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>The Clarendon Hotel and Spa</Name>
+		<Phone>(602) 252-7363</Phone>
+		<Address>
+			<Number>401</Number>
+			<Street>W Claredon Ave </Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85013</Zip>
+			<NearestAirport>Phoenix Sky Harbor Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Peppermill Resort Spa Casino</Name>
+		<Phone>(866) 821-9996</Phone>
+		<Address>
+			<Number>2707</Number>
+			<Street>S Virginia St.</Street>
+			<City>Reno</City>
+			<State>NV</State>
+			<Zip>89502</Zip>
+			<NearestAirport>Reno-Tahoe International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>(480) 968-8885</Phone>
+		<Phone>(800) 937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St.</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+
+</Hotels>
